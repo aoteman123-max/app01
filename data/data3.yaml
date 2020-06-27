@@ -1,0 +1,9 @@
+name: &data
+  name1: "小红"
+  name2: "小兰"
+
+age: &json
+  <<: *data
+
+class:
+  <<: *json

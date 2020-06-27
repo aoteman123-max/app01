@@ -1,0 +1,25 @@
+#info: {name: "haha",Name: "gaga"}
+
+#info2:
+#  name: "haha"
+#  age: "18"
+
+#info3:
+#  - name: "lala"
+#  - age: "20"
+
+#name:"小红"
+
+#int_value: 122
+
+#bool1: True
+#bool2: true
+
+#value1:
+
+#value2: null
+#value3: Null
+#data1: 2020-01-01 11:11:11
+#data2: 2020-01-01
+#data3: 11:11:11
+data4:11:11:11
